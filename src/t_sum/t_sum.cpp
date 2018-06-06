@@ -7,12 +7,14 @@
  ******************************************************************************************/
 
 #include <time.h>
-#include <iostream>
-using namespace std;
+#include <stdlib.h>
+//using namespace std;
 #include "shuffle.h"
 #include "print_int_array.h"
 #include "reverse.h"
 #include "sum.h"
+#include <iostream>
+using namespace std;
 
 /******************************************************************************************
  * ≤‚ ‘SUM

@@ -6,6 +6,7 @@
  * Copyright (c) 2006-2013. All rights reserved.
  ******************************************************************************************/
 
+/*DSA*/#include <stdlib.h>
 /*DSA*/#include <iostream>
 /*DSA*/using namespace std;
 
