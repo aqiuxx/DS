@@ -1,6 +1,6 @@
 TOPDIR=./../..
 
-TARGET=q_sum
+TARGET=t_sum
 
 LIBPATH=$(TOPDIR)/lib
 EXEPATH=$(TOPDIR)/bin
